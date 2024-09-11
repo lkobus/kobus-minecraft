@@ -4184,9 +4184,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/flower_banner_pattern": {
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
-      "has_oxeye_daisy": "2024-09-10 00:56:34 -0300"
+      "has_red_terracotta": "2024-09-10 00:49:01 -0300"
     },
     "done": true
   },
@@ -4202,21 +4202,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_glazed_terracotta": {
-    "criteria": {
-      "has_white_terracotta": "2024-09-10 00:58:06 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_glazed_terracotta": {
-    "criteria": {
-      "has_red_terracotta": "2024-09-10 00:49:01 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_gray_candle": {
     "criteria": {
       "has_light_gray_dye": "2024-09-10 00:56:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-09-10 00:56:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-09-10 00:56:34 -0300"
     },
     "done": true
   },
@@ -4226,9 +4226,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
-      "has_needed_dye": "2024-09-10 00:56:07 -0300"
+      "has_white_terracotta": "2024-09-10 00:58:06 -0300"
     },
     "done": true
   },
