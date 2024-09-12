@@ -3747,5 +3747,17 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-09-12 00:03:25 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2024-09-12 00:14:43 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
