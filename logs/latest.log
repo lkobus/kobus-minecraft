@@ -1,12 +1,29 @@
-[00:03:25] [Server thread/INFO]: komunistaDoSul has made the advancement [Local Brewery]
-[00:07:39] [Server thread/INFO]: komunistaDoSul lost connection: Disconnected
-[00:07:39] [Server thread/INFO]: komunistaDoSul left the game
-[00:07:43] [User Authenticator #6/INFO]: UUID of player komunistaDoSul is f1aa6751-bf91-48d5-9fd0-9e675b1084e5
-[00:07:43] [Server thread/INFO]: komunistaDoSul[/127.0.0.1:37058] logged in with entity id 16363 at (78.54741788145905, 65.0, 21.672674025685016)
-[00:07:43] [Server thread/INFO]: komunistaDoSul joined the game
-[00:35:57] [Server thread/WARN]: leleflores moved too quickly! -0.031335453078867204,0.0,-10.170386470141352
-[00:45:57] [Server thread/WARN]: leleflores moved too quickly! 5.019542516841142,1.0244240882136921,8.617636515602754
-[01:01:40] [Server thread/INFO]: leleflores lost connection: Disconnected
-[01:01:40] [Server thread/INFO]: leleflores left the game
-[01:01:42] [Server thread/INFO]: komunistaDoSul lost connection: Disconnected
-[01:01:42] [Server thread/INFO]: komunistaDoSul left the game
+[00:08:54] [Server thread/INFO]: komunistaDoSul lost connection: Disconnected
+[00:08:54] [Server thread/INFO]: komunistaDoSul left the game
+[00:08:59] [User Authenticator #5/INFO]: UUID of player komunistaDoSul is f1aa6751-bf91-48d5-9fd0-9e675b1084e5
+[00:08:59] [Server thread/INFO]: komunistaDoSul[/127.0.0.1:17616] logged in with entity id 13294 at (117.30000001192093, 61.62256348319629, 37.00768268963205)
+[00:08:59] [Server thread/INFO]: komunistaDoSul joined the game
+[00:25:39] [Server thread/INFO]: leleflores lost connection: Disconnected
+[00:25:39] [Server thread/INFO]: leleflores left the game
+[00:25:44] [User Authenticator #6/INFO]: UUID of player leleflores is 4bb6f647-31de-4587-a2ff-03849bfb10b2
+[00:25:45] [Server thread/INFO]: leleflores[/192.168.0.208:52706] logged in with entity id 15825 at (34.023008544004284, 118.0, 33.504658888443124)
+[00:25:45] [Server thread/INFO]: leleflores joined the game
+[00:41:36] [Server thread/INFO]: leleflores lost connection: Disconnected
+[00:41:36] [Server thread/INFO]: leleflores left the game
+[00:41:41] [User Authenticator #7/INFO]: UUID of player leleflores is 4bb6f647-31de-4587-a2ff-03849bfb10b2
+[00:41:42] [Server thread/INFO]: leleflores[/192.168.0.208:52825] logged in with entity id 20139 at (327.30000001192093, 59.0, -265.69999998807907)
+[00:41:42] [Server thread/INFO]: leleflores joined the game
+[00:52:25] [Server thread/INFO]: komunistaDoSul lost connection: Disconnected
+[00:52:25] [Server thread/INFO]: komunistaDoSul left the game
+[00:52:33] [User Authenticator #8/INFO]: UUID of player komunistaDoSul is f1aa6751-bf91-48d5-9fd0-9e675b1084e5
+[00:52:33] [Server thread/INFO]: komunistaDoSul[/127.0.0.1:17862] logged in with entity id 22631 at (133.52880505704937, 62.565296432393005, 56.657667215309004)
+[00:52:33] [Server thread/INFO]: komunistaDoSul joined the game
+[01:03:21] [Server thread/INFO]: komunistaDoSul lost connection: Disconnected
+[01:03:21] [Server thread/INFO]: komunistaDoSul left the game
+[01:03:25] [User Authenticator #9/INFO]: UUID of player komunistaDoSul is f1aa6751-bf91-48d5-9fd0-9e675b1084e5
+[01:03:25] [Server thread/INFO]: komunistaDoSul[/127.0.0.1:18171] logged in with entity id 24514 at (71.43489961917837, 65.0, 20.827945091924978)
+[01:03:25] [Server thread/INFO]: komunistaDoSul joined the game
+[01:07:55] [Server thread/INFO]: komunistaDoSul lost connection: Disconnected
+[01:07:55] [Server thread/INFO]: komunistaDoSul left the game
+[01:07:56] [Server thread/INFO]: leleflores lost connection: Disconnected
+[01:07:56] [Server thread/INFO]: leleflores left the game
